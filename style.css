@@ -1,0 +1,117 @@
+.container-fluid{
+    margin-top: 30px;
+    padding: 0;
+    
+    
+}
+
+
+.nav-1{
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    margin-bottom: 0;
+   
+}
+.button{
+    border-radius: 10px;
+    height: 50px;
+    background-color: white;
+}
+.button1{
+    border-radius: 10px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    width: 200px;
+}
+
+.font{
+    font-weight:500;
+    font-size: 90px;
+}
+.servicesline{
+    padding: 30px;
+}
+.servicesline1{
+    padding: 30px;
+}
+.logosline{
+    gap: 100px;
+    justify-content: center;
+    padding: 30px ;
+}
+.button2{
+    background-color: rgb(185,255,102) ;
+    width: 150px;
+    height: 40px;
+    font-size:x-large;
+    border: 0;
+    font-weight:500;
+    border-radius: 10px;
+
+}
+.button2-1{
+    background-color: rgb(185,255,102) ;
+    width: 250px;
+    height: 60px;
+    font-size:x-large;
+    border: 0;
+    font-weight:500;
+    border-radius: 10px;
+}
+.boxes{
+    justify-content: center;
+    padding: 30px;
+    
+}
+.box{
+    background-color: rgb(243,243,243);
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    
+
+    
+}
+
+.box1{
+    background-color:rgb(185,255,102);
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+
+
+}
+.boxbtn{
+    margin-top: 20px;
+    background-color: rgb(185,255,102) ;
+    width: 150px;
+    height: 60px;
+    font-size:larger;
+    border: 0;
+    font-weight:500;
+}
+.boxbtn2{
+    margin-top: 20px;
+    background-color:  rgb(243,243,243);
+    width: 150px;
+    height: 60px;
+    font-size:larger;
+    border: 0;
+    font-weight:500;
+}
+.boox{
+    background-color: rgb(185,255,102);
+    height: 250px;
+    width: 350px;
+  
+}
+
+
